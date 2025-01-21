@@ -1,0 +1,8 @@
+.mulcards{
+    display: flex;
+    margin-left: 10px;
+    gap:20px;
+}
+body{
+    background-color:gray;
+}
